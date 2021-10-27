@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Avanade Brasil
+- 🔭 I’m currently working on Avanade Brazil
 - 🌱 I’m currently learning Microservices
 - 👯 I’m looking to collaborate on with open source projects
 - 🤔 I’m looking for help with Jest Test
