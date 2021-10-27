@@ -10,7 +10,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-ianasousati@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ianasousati@gmail.com)](mailto:ianasousati@gmail.com)
 - 😄 Pronouns: She :)
 
-![Iana's github stats](https://github-readme-stats.vercel.app/api?username=IanaCris&show_icons=true&theme=radical)
+![Iana's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=IanaCris&layout=compact&langs_count=7&theme=dark)
+
 
 <!--
 **IanaCris/IanaCris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
