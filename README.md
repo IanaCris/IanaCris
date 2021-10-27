@@ -9,6 +9,9 @@
 | 
 [![Gmail Badge](https://img.shields.io/badge/-ianasousati@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ianasousati@gmail.com)](mailto:ianasousati@gmail.com)
 - 😄 Pronouns: She :)
+
+![Iana's github stats](https://github-readme-stats.vercel.app/api?username=IanaCris&show_icons=true&theme=radical)
+
 <!--
 **IanaCris/IanaCris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
