@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Avanade
-- 🌱 I’m currently learning Cloud
+- 🌱 I’m currently learning ReactJs and Cloud
 - 👯 I’m looking to collaborate on with open source projects
 - 🤔 I’m looking for help with AWS, GCP
 - 💬 Ask me about Node.js, Typescript, PHP, SQL, Git, Azure
