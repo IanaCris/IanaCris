@@ -8,8 +8,7 @@
 💻 ┇I'm a Software Engineer from <b>Fortaleza, <img src="https://cdn-icons-png.flaticon.com/512/330/330430.png" width="15"/> Brasil</b>;<br />
 💾 ┇Technologies I enjoy working with Nodejs, Typescript, Javascript, SQL, Git, Azure, PHP;<br />
 😍 ┇Passionate about education, challenges and solving problem with technology;<br />
-📫 ┇How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Iana%20Souza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ianasousa/)](https://www.linkedin.com/in/ianasouza/)   
-     [![Gmail Badge](https://img.shields.io/badge/-ianasousati@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ianasousati@gmail.com)](mailto:ianasousati@gmail.com)
+📫 ┇How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Iana%20Souza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ianasousa/)](https://www.linkedin.com/in/ianasouza/)  [![Gmail Badge](https://img.shields.io/badge/-ianasousati@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ianasousati@gmail.com)](mailto:ianasousati@gmail.com)
 
 ---
 
